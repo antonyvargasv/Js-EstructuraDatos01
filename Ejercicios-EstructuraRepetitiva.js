@@ -43,11 +43,25 @@
  */
 
 
-let suma = 0;
-let valor = 0;
+// let suma = 0;
+// let valor = 0;
 
-for (let i = 0; i < 10; i++) {
-    valor = +prompt("ingrese un valor para la suma pe :V");
-    suma+= valor;
-}
-console.log(suma);
+// for (let i = 0; i < 10; i++) {
+//     valor = +prompt("ingrese un valor para la suma pe :V");
+//     suma+= valor;
+// }
+// console.log(suma);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
